@@ -26,7 +26,7 @@ public class OrdArrayApp {
 		
 //		System.out.println("Япад  " + (System.currentTimeMillis() - startTime));
 		oa1.display();
-
 		
 	}
+
 }
